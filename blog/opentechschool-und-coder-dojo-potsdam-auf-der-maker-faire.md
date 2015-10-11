@@ -68,7 +68,7 @@ Vielen Dank an dieser Stelle an alle Mentoren und Helfer! Das an dieser Stelle m
 - [Coder Dojo Potsdam](http://zen.coderdojo.com/dojo/861)
   - [Nicco Kunzmann](http://jugendprogrammiert.weebly.com/)
   - [Christoph Sterz](http://www.chsterz.de/)
-  - Stefan Gehrmann
+  - [Stefan Gehrmann](http://itbs.r-o-o-t.net/profil.html)
   - Elias Lehnert
   - Sven Schröter
   - Leonard Hübner
